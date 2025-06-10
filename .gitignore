@@ -1,0 +1,14 @@
+## Build Results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/
+.vs/
